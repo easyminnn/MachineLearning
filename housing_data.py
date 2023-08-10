@@ -16,3 +16,4 @@ sns.reset_orig() #원래 matplot 으로 복귀
     1. LSTAT와 MEDV는  반비례 그래프가 나와 약간의 상관관계가 있다. 
     2. RM과 MEDV도 비례의 상관관계가 있다. 
 ''' 
+#끝
